@@ -60,7 +60,7 @@ Hi, everyone! I would like to introduce myself! My full name is Nofrialdi, you c
 
 ```CSS
 p {
-  color: red;
+  color: blue;
   text-align: center;
 }
 ```
